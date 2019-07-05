@@ -5,12 +5,4 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="printContext" value="LogUtil.$TYPE$(LOGGER, &quot;$MSG$ &quot; + $params$);&#10;" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="" defaultValue="groovyScript(&quot;'\&quot;' + _1.collect { it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', ') + '\&quot;'&quot;, methodParameters())" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
 </templateSet>
