@@ -1,0 +1,10 @@
+<templateSet group="javadoc">
+  <template name="cmt" value="/**&#10; *@author $user$&#10; *@since $date$ $time$&#10; *&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
