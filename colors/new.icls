@@ -7,7 +7,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -119,7 +119,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
