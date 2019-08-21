@@ -4,6 +4,6 @@
     <macro name="MAVEN_REPOSITORY" value="D:\program_files\.m2\repository" />
     <macro name="GRAILS_ROOT" value="D:/programer/groovy/grails/grails-2.4.2" />
     <macro name="IVY_CACHE" value="D:/workbase/spring_src/src/ivy-cache" />
-    <macro name="KOTLIN_BUNDLED" value="D:\Program Files\JetBrains\ideaIU-2019.1\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="D:\Program Files\JetBrains\ideaIU-2019.2\plugins\Kotlin\kotlinc" />
   </component>
 </application>

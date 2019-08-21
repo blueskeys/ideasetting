@@ -2,18 +2,28 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="appUtils.js" type="PLAIN_TEXT" />
-      <mapping pattern="KEYS" type="PLAIN_TEXT" />
-      <mapping pattern="CONTENTS" type="PLAIN_TEXT" />
-      <mapping pattern="老的生成模板-改动不大" type="PLAIN_TEXT" />
-      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="项目说明" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping pattern="appUtils.js" type="PLAIN_TEXT" />
+      <mapping pattern="老的生成模板-改动不大" type="PLAIN_TEXT" />
+      <mapping pattern="CONTENTS" type="PLAIN_TEXT" />
+      <mapping pattern="KEYS" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="good" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="jhtml" type="XHTML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
