@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -19,6 +22,9 @@
   </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
@@ -48,4 +54,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
