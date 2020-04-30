@@ -11,10 +11,9 @@
     <option name="methodTemplateConfig">
       <TemplateConfig>
         <option name="isDefault" value="false" />
-        <option name="template" value="/**&#10; *功能：&#10; *$PARAMS$&#10; *@return: $RETURN$&#10; */" />
+        <option name="template" value="/**&#10; * 功能：&#10; * @params: $PARAMS$&#10; * @return: $RETURN$&#10; */" />
       </TemplateConfig>
     </option>
-    <option name="simpleFieldDoc" value="true" />
     <option name="translator" value="关闭（只使用自定义翻译）" />
   </component>
 </application>
