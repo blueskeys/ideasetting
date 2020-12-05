@@ -1,0 +1,44 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="千" />
+      <item value="hundred" />
+      <item value="百" />
+      <item value="200" />
+      <item value="50" />
+      <item value="通信和其他电子设备制造业" />
+      <item value="综合" />
+      <item value="体育和娱乐业" />
+      <item value="卫生和社会工作" />
+      <item value="教育" />
+      <item value="维修和其他服务业" />
+      <item value="环境和公共设施管理业" />
+      <item value="科学研究和技术服务业" />
+      <item value="租赁和商务服务业" />
+      <item value="房地产业" />
+      <item value="金融业" />
+      <item value="软件和信息技术服务业" />
+      <item value="住宿和餐饮业" />
+      <item value="交通运输" />
+      <item value="批发和零售业" />
+      <item value="建筑业" />
+      <item value="电力" />
+      <item value="制造业" />
+      <item value="采矿业" />
+      <item value="农业" />
+      <item value="其他有限责任" />
+      <item value="外商投资" />
+      <item value="联营企业" />
+      <item value="有限责任" />
+      <item value="集体所有制" />
+      <item value="股份制" />
+      <item value="科研院所" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="31" />
+      </map>
+    </option>
+  </component>
+</application>
