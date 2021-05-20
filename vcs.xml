@@ -1,8 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="Git.Application.Settings">
     <option name="myPathToGit" value="D:\programe\git\PortableGit-1.8.3-preview20130601\bin\git.exe" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab-ali.spacecig.com" />
+          <option name="userName" value="junjie@spacesystech.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
 </application>
-
