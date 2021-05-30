@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="549" />
+    <option name="newTranslationDialogY" value="411" />
     <histories>
+      <item value="招商引才" />
+      <item value="财税服务" />
+      <item value="投融资" />
+      <item value="intellectual property rights" />
+      <item value="知识产权" />
+      <item value="项目申报" />
+      <item value="职称申报" />
+      <item value="市场推广" />
+      <item value="产品代理" />
+      <item value="技术改造" />
       <item value="千" />
       <item value="hundred" />
       <item value="百" />
@@ -36,9 +49,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1622378608133" />
   </component>
 </application>
