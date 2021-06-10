@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'situation'" />
-    <option name="defaultScopeName" value="Project 'situation'" />
-    <option name="SEARCH_SCOPE" value="Project 'situation'" />
+    <option name="customScope" value="Project 'pores-parent'" />
+    <option name="defaultScopeName" value="Project 'pores-parent'" />
+    <option name="SEARCH_SCOPE" value="Project 'pores-parent'" />
   </component>
 </application>
