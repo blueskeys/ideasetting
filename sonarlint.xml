@@ -3,11 +3,6 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://localhost:9000" />
-          <token>dfc9dfccdfcbdfccdf9adfcfdf98df9bdf9ddfcfdfc8dfc9df98df99df92dfcedfc8df9bdf92df9fdf9fdf9cdf9fdf9edf9cdfc9df9bdf93df9ddfccdf9fdf9ddf99dfccdf9adf9fdf92df9adfc9df9d</token>
-          <option name="name" value="localhost" />
-        </SonarQubeServer>
-        <SonarQubeServer>
           <option name="hostUrl" value="https://sonar.spacecig.com/" />
           <token>df92df9adf9cdfc8dfcedf9adf9ddf9cdf9ddfc8dfcfdf9fdf9fdfc9df98dfcfdf98df9adf9cdf9edf9ddf92df92df93dfcfdf9ddfccdfcbdfccdf9ddfccdf9fdfc8dfcedf99df9edf98df9bdfcfdf9f</token>
           <option name="name" value="spacesystech-sonar" />
