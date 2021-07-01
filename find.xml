@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pores-parent'" />
-    <option name="defaultScopeName" value="Project 'pores-parent'" />
-    <option name="SEARCH_SCOPE" value="Project 'pores-parent'" />
+    <option name="customScope" value="File '...\ga-busi-comn\src\main\java\com\spacesystech\ga\busi\module\example\entity\Account.java [ga-busi-comn]'" />
+    <option name="defaultScopeName" value="File '...\ga-busi-comn\src\main\java\com\spacesystech\ga\busi\module\example\entity\Account.java [ga-busi-comn]'" />
+    <option name="SEARCH_SCOPE" value="File '...\ga-busi-comn\src\main\java\com\spacesystech\ga\busi\module\example\entity\Account.java [ga-busi-comn]'" />
   </component>
 </application>
