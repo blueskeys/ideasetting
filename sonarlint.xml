@@ -7,6 +7,11 @@
           <token>df92df9adf9cdfc8dfcedf9adf9ddf9cdf9ddfc8dfcfdf9fdf9fdfc9df98dfcfdf98df9adf9cdf9edf9ddf92df92df93dfcfdf9ddfccdfcbdfccdf9ddfccdf9fdfc8dfcedf99df9edf98df9bdfcfdf9f</token>
           <option name="name" value="spacesystech-sonar" />
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000" />
+          <token>df9bdfcedf98df9bdf92df9cdf9adfc9df92dfcbdfcbdf92dfc9df9edf9ddf9adf9edf9cdf9adfcedf93df98df99dfc9df92dfc9df9adf98dfc9df9ddf9edf9bdfcfdf93df92df98df9cdfcedf9cdfce</token>
+          <option name="name" value="localhost-sonar" />
+        </SonarQubeServer>
       </list>
     </option>
     <rules />
