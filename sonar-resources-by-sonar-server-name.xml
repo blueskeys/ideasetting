@@ -6,8 +6,23 @@
           <value>
             <list>
               <Resource>
+                <option name="key" value="ga-java-basic" />
+                <option name="name" value="ga-busi-parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.spacesystech.zagk.situation:situation-admin" />
+                <option name="name" value="situation-admin" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
                 <option name="key" value="test" />
                 <option name="name" value="test" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="test2" />
+                <option name="name" value="test2" />
                 <option name="qualifier" value="TRK" />
               </Resource>
             </list>
