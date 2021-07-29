@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\ga-busi\src\main\java\com\spacesystech\ga\busi\modules\home\controller [ga-busi]'" />
-    <option name="defaultScopeName" value="Directory '...\ga-busi\src\main\java\com\spacesystech\ga\busi\modules\home\controller [ga-busi]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\ga-busi\src\main\java\com\spacesystech\ga\busi\modules\home\controller [ga-busi]'" />
+    <option name="customScope" value="Directory '...\ga-busi\src\main\java\com\spacesystech\ga\busi [ga-busi]'" />
+    <option name="defaultScopeName" value="Directory '...\ga-busi\src\main\java\com\spacesystech\ga\busi [ga-busi]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\ga-busi\src\main\java\com\spacesystech\ga\busi [ga-busi]'" />
   </component>
 </application>
