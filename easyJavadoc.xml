@@ -9,6 +9,12 @@
       </TemplateConfig>
     </option>
     <option name="dateFormat" value="yyyy/MM/dd HH:mm:ss" />
+    <option name="methodTemplateConfig">
+      <TemplateConfig>
+        <option name="isDefault" value="false" />
+        <option name="template" value="/**&#10; * $DOC$&#10; * @Author $AUTHOR$&#10; * @Date $DATE$ &#10; * @Params $PARAMS$&#10; * @Return $RETURN$&#10; * @Throws $THROWS$&#10; */" />
+      </TemplateConfig>
+    </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
