@@ -1,0 +1,15 @@
+<templateSet group="htzh">
+  <template name="*" value="/** &#10; * @description: $description$ &#10; * @param: $params$ &#10; * @return: $returns$ &#10; * @author $USER$&#10; * @date: $date$ $time$&#10; */" shortcut="ENTER" description="注释" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression=" " defaultValue="todo" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+='' + params[i] + ((i &lt; params.size() - 1) ? '\\n':'')}; return result&quot;, methodParameters()) " defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
