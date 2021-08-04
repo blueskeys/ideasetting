@@ -10,22 +10,17 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinFiles" is_action="true" action_type="1" position="19">
+    <group value="CheckinProject" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinProject" is_action="true" action_type="1" position="20">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="21">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="22">
+    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
