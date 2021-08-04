@@ -5,27 +5,23 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="18">
+    <group value="Console.Open" is_action="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinProject" is_action="true" action_type="1" position="19">
+    <group value="ActivateTerminalToolWindow" is_action="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="20">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="21">
+    <group seperator="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="WelcomeScreen.RevealIn" icon="D:/program_files/intellij_data/IDEA_data2021/icons/file.png" />
+    <action id="ActivateTerminalToolWindow" icon="D:/program_files/intellij_data/IDEA_data2021/icons/bxs-terminal.png" />
     <action id="RevealIn" icon="D:/program_files/intellij_data/IDEA_data2021/icons/file1.png" />
     <action id="Console.Open" icon="D:/program_files/intellij_data/IDEA_data2021/icons/commandshell.png" />
   </component>
