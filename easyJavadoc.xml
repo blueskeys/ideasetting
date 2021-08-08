@@ -1,19 +1,23 @@
 <application>
   <component name="easyJavadoc">
+    <option name="appId" value="" />
     <option name="author" value="renjunjie" />
     <option name="classTemplateConfig">
       <TemplateConfig>
         <option name="isDefault" value="false" />
-        <option name="template" value="/**&#10; *TODO 请添加类的作用&#10; *@auther: $AUTHOR$&#10; *@since: $DATE$&#10; */" />
+        <option name="template" value="/**&#10; * $DOC$&#10; * @Author $AUTHOR$&#10; * @Date $DATE$&#10; * @Version $VERSION$&#10; */" />
       </TemplateConfig>
     </option>
     <option name="dateFormat" value="yyyy/MM/dd HH:mm:ss" />
     <option name="methodTemplateConfig">
       <TemplateConfig>
         <option name="isDefault" value="false" />
-        <option name="template" value="/**&#10; * 功能：&#10; * @params: $PARAMS$&#10; * @return: $RETURN$&#10; */" />
+        <option name="template" value="/**&#10; * $DOC$&#10; * $PARAMS$&#10; * $RETURN$&#10; * $THROWS$&#10; * @Author $AUTHOR$&#10; * @Date $DATE$&#10; */" />
       </TemplateConfig>
     </option>
-    <option name="translator" value="关闭（只使用自定义翻译）" />
+    <option name="secretId" value="" />
+    <option name="secretKey" value="" />
+    <option name="simpleFieldDoc" value="true" />
+    <option name="token" value="" />
   </component>
 </application>
