@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="文件 '...\src\main\java\com\wyying\custom\science\common\utils\FastJsonUtils.java'" />
-    <option name="defaultScopeName" value="文件 '...\src\main\java\com\wyying\custom\science\common\utils\FastJsonUtils.java'" />
-    <option name="SEARCH_SCOPE" value="文件 '...\src\main\java\com\wyying\custom\science\common\utils\FastJsonUtils.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
